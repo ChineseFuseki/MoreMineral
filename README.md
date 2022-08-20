@@ -1,4 +1,4 @@
-# MoreMineral
+# README
 A Minecraft Bedrock Edition add-on
 
 COPYRIGHT 2022 Wang Zeyuan
